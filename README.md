@@ -1,3 +1,5 @@
 # bs-is-fun
-used bootstrap 
-and creat some fun
+# 1F 利用bootstrap的一些组件，制作一些更适用 更褲的功能 
+可能会对一些css进行覆盖 呵呵
+
+# 2F 楼上的你呵呵你妹啊 
